@@ -1,1 +1,1 @@
-Blockchain analysis with artificial intelligence.
+Text analysis with artificial intelligence.
