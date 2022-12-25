@@ -1,1 +1,1 @@
-Text analysis with artificial intelligence.
+This code creates a command-line interface (CLI) for a game of chess, using x86 assembly language. The game is played in the terminal, and the board is displayed using ASCII characters to represent the different pieces.
