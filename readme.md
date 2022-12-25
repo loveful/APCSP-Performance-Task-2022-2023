@@ -3,6 +3,8 @@ This code creates a command-line interface (CLI) for a game of chess, using x86 
 
 This was created as a self-challenge for the AP Computer Science Principles Performance Task, as well as to test the limitations of the people working at College Board.
 
+For the creation of my code, I utilized the highly efficient and user-friendly [SpaceVIM](https://spacevim.org) text editor. To bring my code to life, I utilized the robust platform [Replit](https://replit.com) for execution.
+
 ## [Development] - 2022-12-25
 
 ### Added
