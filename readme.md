@@ -1,7 +1,7 @@
 # asmchess
 This code creates a command-line interface (CLI) for a game of chess, using x86 assembly language. The game is played in the terminal, and the board is displayed using ASCII characters to represent the different pieces.
 
-This was made as a challenge for the AP Computer Science Principles Performance Task.
+This was created as a self-challenge for the AP Computer Science Principles Performance Task, as well as to test the limitations of the people working at College Board.
 
 ## [Development] - 2022-12-25
 
