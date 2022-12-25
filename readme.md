@@ -4,7 +4,7 @@ The game is played in the terminal, and the board is displayed using ASCII chara
 
 This was made as a challenge for the AP Computer Science Principles Performance Task.
 
-## [Unreleased] - 2022-12-25
+## [Development] - 2022-12-25
 
 ### Added
 - [ASMCHESS-2022](https://github.com/loveful/APCSP-Performance-Task-2022-2023/blob/main/main.s)
