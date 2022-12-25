@@ -41,6 +41,6 @@ main:
 	mov rdi, board
 	mov rax, 0
 	call printf
-    call get_input
-    mov rax, 0
-    ret
+	call get_input
+	mov rax, 0
+	ret
