@@ -6,5 +6,5 @@ This was created as a self-challenge for the AP Computer Science Principles Perf
 ## [Development] - 2022-12-25
 
 ### Added
-- [ASMCHESS-2022](https://github.com/loveful/APCSP-Performance-Task-2022-2023/blob/main/main.s)
+- [asmchess-2022](https://github.com/loveful/APCSP-Performance-Task-2022-2023/blob/main/main.s)
   GUI (Graphical User Interface) and move prompt
