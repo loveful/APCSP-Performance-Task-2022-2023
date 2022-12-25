@@ -4,7 +4,6 @@ The game is played in the terminal, and the board is displayed using ASCII chara
 
 This was made as a challenge for the AP Computer Science Principles Performance Task.
 
-# Change Logs
 ## [Unreleased] - 2022-12-25
 
 ### Added
